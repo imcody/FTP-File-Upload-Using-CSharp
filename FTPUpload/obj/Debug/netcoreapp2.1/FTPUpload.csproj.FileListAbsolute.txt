@@ -1,0 +1,11 @@
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\bin\Debug\netcoreapp2.1\FTPUpload.deps.json
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\bin\Debug\netcoreapp2.1\FTPUpload.runtimeconfig.json
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\bin\Debug\netcoreapp2.1\FTPUpload.runtimeconfig.dev.json
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\bin\Debug\netcoreapp2.1\FTPUpload.dll
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\bin\Debug\netcoreapp2.1\FTPUpload.pdb
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.csprojAssemblyReference.cache
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.csproj.CoreCompileInputs.cache
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.AssemblyInfoInputs.cache
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.AssemblyInfo.cs
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.dll
+D:\msproject\FTPUpload\FTPUpload\FTPUpload\obj\Debug\netcoreapp2.1\FTPUpload.pdb
