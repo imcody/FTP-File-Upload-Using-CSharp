@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\msproject\\FTPUpload\\FTPUpload\\FTPUpload\\FTPUpload.csproj",
+      "projectUniqueName": "D:\\msproject\\Test Snippets\\FTPUpload\\FTPUpload\\FTPUpload\\FTPUpload.csproj",
       "projectName": "FTPUpload",
-      "projectPath": "D:\\msproject\\FTPUpload\\FTPUpload\\FTPUpload\\FTPUpload.csproj",
+      "projectPath": "D:\\msproject\\Test Snippets\\FTPUpload\\FTPUpload\\FTPUpload\\FTPUpload.csproj",
       "packagesPath": "C:\\Users\\tarek\\.nuget\\packages\\",
-      "outputPath": "D:\\msproject\\FTPUpload\\FTPUpload\\FTPUpload\\obj\\",
+      "outputPath": "D:\\msproject\\Test Snippets\\FTPUpload\\FTPUpload\\FTPUpload\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
